@@ -1,3 +1,11 @@
 {
-    "header": "FREE SHIPPING ON ALL ORDERS"
-}
+    "header": "FREE SHIPPING ON ALL ORDERS",
+    "navbar-content": {
+        "new": "NEW",
+        "wallets": "WALLETS",
+        "t-series": "T SERIES",
+        "card-holder": "CARD HOLDER",
+        "Travel-wallet": "TRAVEL WALLET",
+        "organizer": "A5 ORGANIZER"
+    }
+}   

@@ -1,3 +1,11 @@
 {
-    "header": "TÜM SİPARİŞLERDE ÜCRETSİZ KARGO"
+    "header": "TÜM SİPARİŞLERDE ÜCRETSİZ KARGO",
+    "navbar-content": {
+        "new": "YENİ",
+        "wallets": "CÜZDANLAR",
+        "t-series": "T SERİSİ",
+        "card-holder": "KARTLIK",
+        "Travel-wallet": "SEYAHAT CÜZDANI",
+        "organizer": "A5 ORGANİZER"
+    }
 }
