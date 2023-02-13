@@ -47,7 +47,7 @@
 }
 
 .dropdown {
-  width: 30px;
+  
   height: 20px;
   user-select: none;
   cursor: pointer;
@@ -67,14 +67,14 @@
   margin-top: 3px;
   position: relative;
   z-index: 1;
-  background-color: #0D0D0D;
+  background-color: transparent;
 }
 
 .dropdown .dropdown-content .dropdown-item {
   cursor: pointer;
-  width: 30px;
+  
   display: flex;
-  justify-content: center;
+  
   
 }
 
